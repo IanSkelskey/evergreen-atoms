@@ -1,6 +1,6 @@
 # Evergreen Atoms
 
-Small programs and scripts made to support Evergreen contributions.
+Small programs and scripts made to support [Evergreen](https://github.com/evergreen-library-system/Evergreen) contributions.
 
 ## Fix Double Announcement of Icon Labels
 
